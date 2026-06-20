@@ -1,38 +1,47 @@
-# PistiSMP
+# PistiSMP Plugins
 
-Nyílt forráskódú Minecraft pluginok a PistiSMP szerverről.
+A PistiSMP szerveren használt egyedi Minecraft pluginok gyűjteménye.
 
-## Pluginok
+---
 
-### PistiEvents
-
-Eseményrendszer és szerveres eventek kezelése.
-
-### PistiCombat
-
-Harcrendszerrel kapcsolatos funkciók.
+## 📦 Pluginok
 
 ### DuelPisti
-
 Játékosok közötti párbaj rendszer.
 
-### PistiPlugin
+### PistiCombat
+Harcrendszer és PvP mechanikák.
 
-Általános szerveres funkciók és parancsok.
+### PistiEvents
+Szerveres event rendszer és eseménykezelés.
+
+### PistiPlugin
+Általános szerver funkciók és parancsok.
 
 ### PistiUtils
+Közös segéd- és utility funkciók.
 
-Közös segédosztályok és utility funkciók.
+---
 
-## Követelmények
+## ⚙️ Követelmények
 
-* Java 21+
-* Paper / Purpur 1.21+
+- Java 21+
+- Paper / Purpur 1.21+
 
-## Licenc
+---
 
-A projekt a repository LICENSE fájlja szerint használható.
+## ⬇️ Letöltés
 
-## Figyelmeztetés
+A pluginok **precompiled `.jar` fájlokként** érhetők el ebben a repositoryban (Releases vagy feltöltött fájlok).
+
+---
+
+## ⚠️ Megjegyzés
 
 A pluginok fejlesztésében AI eszközök is közreműködtek.
+
+---
+
+## 📜 Licenc
+
+Lásd a `LICENSE` fájlt a felhasználási feltételekért.
